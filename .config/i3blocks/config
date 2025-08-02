@@ -1,0 +1,12 @@
+[date]
+command=date +'%Y-%m-%d'
+interval=60
+align=right
+color=#ffffff
+
+[time]
+command=date +'%H:%M'
+interval=60
+align=right
+color=#ffffff
+
